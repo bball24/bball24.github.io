@@ -1,0 +1,10 @@
+body{
+	width: 40%;
+	display: block;
+	margin: 0 auto;
+	background-color: orange;
+	}
+img{
+	width : 300px;
+	border-radius: 50%;
+}
