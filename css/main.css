@@ -79,5 +79,12 @@ body, html{
   justify-content: center;
 }
 div img{ display: inline;}
+.icons{
+   transition: transform .3s
+}
+.icons:hover{
+  transform: scale(1.30);
+
+}
 
 
