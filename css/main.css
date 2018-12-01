@@ -48,10 +48,7 @@ body, html{
   float: left;
 
 }
-.logos{
-	font-size: 50px;
-  display: inline;
-}
+
 .overlay {
   position: absolute;
   top: 0;
@@ -85,6 +82,18 @@ div img{ display: inline;}
 .icons:hover{
   transform: scale(1.30);
 
+}
+ol,ul{
+  list-style: none;
+  padding: 15%;
+  
+}
+a.logo{
+  padding: 15px;
+}
+
+.nav {
+  width: 100%;
 }
 
 
