@@ -54,9 +54,7 @@ h1, h2, h3{
   height: 50px;
 
 }
-.contentContainer{
-  text-align: c
-}
+
 .date{
   float: right;
   font-weight: normal;
@@ -64,4 +62,29 @@ h1, h2, h3{
 .labels{
   margin-top: 30px;
   margin-bottom: 30px;
+}
+@media screen and (max-width: 400px) {
+  body, html{
+  max-width: 50em;
+  font-size: 6px;
+}
+.icon{
+  width: 10px;
+  height: 10px;
+}
+.container{
+  width: 50px;
+  height: 30px;
+}
+.profilePic{
+  width: 125px;
+  margin-bottom: 10px;
+}
+.labels{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+  
 }
