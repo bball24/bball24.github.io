@@ -1,3 +1,3 @@
 # Jerry's Personal Website 
 
-Link: [bball24.me](http://jerrytan.codes)
+Link: [jerrytan.codes](http://jerrytan.codes)
